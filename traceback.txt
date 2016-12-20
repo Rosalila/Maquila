@@ -1,0 +1,50 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "renpy/common/000statements.rpy", line 457, in execute_call_screen
+    store._return = renpy.call_screen(name, *args, **kwargs)
+Exception: Required parameter drops has no value.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "/home/turupawn/scripts/a/1.rpyc", line 3, in script
+  File "/home/turupawn/Software/renpy-6.99.8-sdk/renpy/ast.py", line 1696, in execute
+    self.call("execute")
+  File "/home/turupawn/Software/renpy-6.99.8-sdk/renpy/ast.py", line 1714, in call
+    return renpy.statements.call(method, parsed, *args, **kwargs)
+  File "/home/turupawn/Software/renpy-6.99.8-sdk/renpy/statements.py", line 144, in call
+    return method(parsed, *args, **kwargs)
+  File "renpy/common/000statements.rpy", line 457, in execute_call_screen
+    store._return = renpy.call_screen(name, *args, **kwargs)
+  File "/home/turupawn/Software/renpy-6.99.8-sdk/renpy/exports.py", line 2461, in call_screen
+    rv = renpy.ui.interact(mouse="screen", type="screen", roll_forward=roll_forward)
+  File "/home/turupawn/Software/renpy-6.99.8-sdk/renpy/ui.py", line 277, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
+  File "/home/turupawn/Software/renpy-6.99.8-sdk/renpy/display/core.py", line 2424, in interact
+    repeat, rv = self.interact_core(preloads=preloads, **kwargs)
+  File "/home/turupawn/Software/renpy-6.99.8-sdk/renpy/display/core.py", line 2684, in interact_core
+    root_widget.visit_all(lambda i : i.per_interact())
+  File "/home/turupawn/Software/renpy-6.99.8-sdk/renpy/display/core.py", line 396, in visit_all
+    d.visit_all(callback)
+  File "/home/turupawn/Software/renpy-6.99.8-sdk/renpy/display/core.py", line 396, in visit_all
+    d.visit_all(callback)
+  File "/home/turupawn/Software/renpy-6.99.8-sdk/renpy/display/core.py", line 396, in visit_all
+    d.visit_all(callback)
+  File "/home/turupawn/Software/renpy-6.99.8-sdk/renpy/display/screen.py", line 386, in visit_all
+    callback(self)
+  File "/home/turupawn/Software/renpy-6.99.8-sdk/renpy/display/core.py", line 2684, in <lambda>
+    root_widget.visit_all(lambda i : i.per_interact())
+  File "/home/turupawn/Software/renpy-6.99.8-sdk/renpy/display/screen.py", line 396, in per_interact
+    self.update()
+  File "/home/turupawn/Software/renpy-6.99.8-sdk/renpy/display/screen.py", line 565, in update
+    self.screen.function(**self.scope)
+  File "/home/turupawn/Software/renpy-6.99.8-sdk/renpy/ast.py", line 148, in apply_arguments
+    return parameters.apply(args, kwargs, ignore_errors)
+  File "/home/turupawn/Software/renpy-6.99.8-sdk/renpy/ast.py", line 117, in apply
+    raise Exception("Required parameter %s has no value." % name)
+Exception: Required parameter drops has no value.
+
+Linux-3.16.0-4-amd64-x86_64-with-debian-8.1
+Ren'Py 6.99.8.959
+Pirates2 0.0

@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/scripts/minigames/b2.rpy", line 17: invalid syntax
+            self.images = [][]
+                              ^
+    
+
+Ren'Py Version: Ren'Py 6.99.8.959

@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-1219.5399"
+     inkscape:cy="708.71057"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="746"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none"
+       id="rect2985"
+       width="200"
+       height="200"
+       x="-626.77881"
+       y="291.38687"
+       inkscape:export-filename="/home/turupawn/Projects/RenpyTests/Pirates2/game/images/minigames/b2/image_00.png"
+       inkscape:export-xdpi="30.73"
+       inkscape:export-ydpi="30.73" />
+    <rect
+       y="291.38687"
+       x="-413.63663"
+       height="200"
+       width="200"
+       id="rect2987"
+       style="fill:#ff0000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/turupawn/Projects/RenpyTests/Pirates2/game/images/minigames/b2/image_01.png"
+       inkscape:export-xdpi="30.73"
+       inkscape:export-ydpi="30.73" />
+    <rect
+       y="504.52905"
+       x="-626.77881"
+       height="200"
+       width="200"
+       id="rect2989"
+       style="fill:#ff0000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/turupawn/Projects/RenpyTests/Pirates2/game/images/minigames/b2/image_10.png"
+       inkscape:export-xdpi="30.73"
+       inkscape:export-ydpi="30.73" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none"
+       id="rect2991"
+       width="200"
+       height="200"
+       x="-413.63663"
+       y="504.52905"
+       inkscape:export-filename="/home/turupawn/Projects/RenpyTests/Pirates2/game/images/minigames/b2/image_11.png"
+       inkscape:export-xdpi="30.73"
+       inkscape:export-ydpi="30.73" />
+    <text
+       xml:space="preserve"
+       style="font-size:125.46723938px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Semi-Light"
+       x="-603.68225"
+       y="421.33484"
+       id="text2993"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2995"
+         x="-603.68225"
+         y="421.33484">00</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3009"
+       y="421.33484"
+       x="-406.70251"
+       style="font-size:125.46723938px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Semi-Light"
+       xml:space="preserve"><tspan
+         y="421.33484"
+         x="-406.70251"
+         id="tspan3011"
+         sodipodi:role="line">01</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3013"
+       y="634.47705"
+       x="-603.68225"
+       style="font-size:125.46723938px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Semi-Light"
+       xml:space="preserve"><tspan
+         y="634.47705"
+         x="-603.68225"
+         id="tspan3015"
+         sodipodi:role="line">10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:125.46723938px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Semi-Light"
+       x="-406.70251"
+       y="634.47705"
+       id="text3017"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3019"
+         x="-406.70251"
+         y="634.47705">11</tspan></text>
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none"
+       id="rect3021"
+       width="200"
+       height="200"
+       x="-1380"
+       y="360.93359"
+       inkscape:export-filename="22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="360.93359"
+       x="-1580"
+       height="200"
+       width="200"
+       id="rect3023"
+       style="fill:#ff0000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="12.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none"
+       id="rect3025"
+       width="200"
+       height="200"
+       x="-1780"
+       y="360.93359"
+       inkscape:export-filename="02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="160.93361"
+       x="-1380"
+       height="200"
+       width="200"
+       id="rect3027"
+       style="fill:#ff0000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="21.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none"
+       id="rect3029"
+       width="200"
+       height="200"
+       x="-1580"
+       y="160.93361"
+       inkscape:export-filename="11.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="160.93361"
+       x="-1780"
+       height="200"
+       width="200"
+       id="rect3031"
+       style="fill:#ff0000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none"
+       id="rect3033"
+       width="200"
+       height="200"
+       x="-1380"
+       y="-39.066391"
+       inkscape:export-filename="20.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="-39.066391"
+       x="-1580"
+       height="200"
+       width="200"
+       id="rect3035"
+       style="fill:#ff0000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none"
+       id="rect3037"
+       width="200"
+       height="200"
+       x="-1780"
+       y="-39.066391"
+       inkscape:export-filename="00.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#008080;fill-opacity:1;stroke:none"
+       id="rect3039"
+       width="50"
+       height="200"
+       x="-1712.1428"
+       y="18.076471"
+       ry="23.316055" />
+    <rect
+       ry="23.316055"
+       y="1512.1428"
+       x="172.3622"
+       height="200"
+       width="50"
+       id="rect3041"
+       style="fill:#008080;fill-opacity:1;stroke:none"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       ry="23.316055"
+       y="23.790758"
+       x="-1489.2858"
+       height="200"
+       width="50"
+       id="rect3043"
+       style="fill:#008080;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#008080;fill-opacity:1;stroke:none"
+       id="rect3045"
+       width="50"
+       height="215.71428"
+       x="20.93362"
+       y="1272.1428"
+       ry="25.148031"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       style="fill:#008080;fill-opacity:1;stroke:none"
+       id="rect3047"
+       width="50"
+       height="200"
+       x="172.3622"
+       y="1440.7142"
+       ry="23.316055" />
+    <rect
+       transform="scale(-1,-1)"
+       ry="25.148031"
+       y="-234.9399"
+       x="1268.1338"
+       height="215.71428"
+       width="50"
+       id="rect3049"
+       style="fill:#008080;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#008080;fill-opacity:1;stroke:none"
+       id="rect3051"
+       width="50"
+       height="215.71428"
+       x="1268.1338"
+       y="-413.51132"
+       ry="25.148031"
+       transform="scale(-1,-1)" />
+    <rect
+       transform="scale(-1,-1)"
+       ry="25.148031"
+       y="-492.08276"
+       x="1268.1338"
+       height="215.71428"
+       width="50"
+       id="rect3053"
+       style="fill:#008080;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#008080;fill-opacity:1;stroke:none"
+       id="rect3055"
+       width="50"
+       height="215.71428"
+       x="-497.79703"
+       y="-1483.848"
+       ry="25.148031"
+       transform="matrix(0,-1,1,0,0,0)" />
+    <rect
+       ry="25.148031"
+       y="277.79703"
+       x="-1486.7052"
+       height="215.71428"
+       width="50"
+       id="rect3057"
+       style="fill:#008080;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#008080;fill-opacity:1;stroke:none"
+       id="rect3059"
+       width="50"
+       height="215.71428"
+       x="276.36844"
+       y="1442.4196"
+       ry="25.148031"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       transform="scale(-1,-1)"
+       ry="25.148031"
+       y="-489.22559"
+       x="1659.5624"
+       height="215.71428"
+       width="50"
+       id="rect3061"
+       style="fill:#008080;fill-opacity:1;stroke:none" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       ry="25.148031"
+       y="1488.1338"
+       x="276.36844"
+       height="215.71428"
+       width="50"
+       id="rect3063"
+       style="fill:#008080;fill-opacity:1;stroke:none" />
+  </g>
+</svg>

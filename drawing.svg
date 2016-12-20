@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.175"
+     inkscape:cx="-2569.8958"
+     inkscape:cy="-70.172849"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="746"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ecf0f1;fill-opacity:1;stroke:none"
+       id="rect2985"
+       width="800"
+       height="600"
+       x="-1728.5714"
+       y="169.50505"
+       ry="0"
+       inkscape:export-filename="/home/turupawn/Projects/RenpyTests/Pirates2/game/images/A1/imagemap_ground.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#e74c3c;fill-opacity:1;stroke:none"
+       id="rect3755"
+       width="100"
+       height="100"
+       x="-1639.8104"
+       y="399.50504" />
+    <rect
+       y="283.79074"
+       x="-1239.8104"
+       height="300"
+       width="200"
+       id="rect3757"
+       style="fill:#e74c3c;fill-opacity:1;stroke:none" />
+    <rect
+       ry="0"
+       y="969.50507"
+       x="-2148.5713"
+       height="600"
+       width="800"
+       id="rect3759"
+       style="fill:#ecf0f1;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/turupawn/Projects/RenpyTests/Pirates2/game/images/b/imagemap_hover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="421.58478"
+       x="-2304.8809"
+       height="200"
+       width="200"
+       id="rect3761"
+       style="fill:#e74c3c;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#ecf0f1;fill-opacity:1;stroke:none"
+       id="rect3765"
+       width="800"
+       height="600"
+       x="-2524.3481"
+       y="1753.3834"
+       ry="0" />
+    <rect
+       style="fill:#e74c3c;fill-opacity:1;stroke:none"
+       id="rect3767"
+       width="200"
+       height="200"
+       x="-2075.9731"
+       y="1948.0332" />
+    <rect
+       style="fill:#ecf0f1;fill-opacity:1;stroke:none"
+       id="rect3769"
+       width="800"
+       height="600"
+       x="-1138.4187"
+       y="969.50507"
+       ry="0" />
+    <rect
+       ry="0"
+       y="2630.1958"
+       x="-3029.4243"
+       height="600"
+       width="800"
+       id="rect3773"
+       style="fill:#ecf0f1;fill-opacity:1;stroke:none" />
+    <rect
+       y="2824.8457"
+       x="-2958.1921"
+       height="200"
+       width="200"
+       id="rect3775"
+       style="fill:#e74c3c;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#ecf0f1;fill-opacity:1;stroke:none"
+       id="rect3777"
+       width="800"
+       height="600"
+       x="-1954.6221"
+       y="2630.1958"
+       ry="0" />
+    <rect
+       y="1948.0332"
+       x="-2395.1814"
+       height="200"
+       width="200"
+       id="rect3781"
+       style="fill:#e74c3c;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#3498db;fill-opacity:1;stroke:none"
+       id="rect3783"
+       width="200"
+       height="200"
+       x="-2544.2573"
+       y="1053.0134" />
+    <rect
+       style="fill:#e67e22;fill-opacity:1;stroke:none"
+       id="rect3785"
+       width="200"
+       height="100"
+       x="-3131.4727"
+       y="1295.8141" />
+    <rect
+       y="1295.8141"
+       x="-2832.4675"
+       height="100"
+       width="200"
+       id="rect3787"
+       style="fill:#9b59b6;fill-opacity:1;stroke:none" />
+    <rect
+       y="1421.5283"
+       x="-3131.4727"
+       height="100"
+       width="200"
+       id="rect3789"
+       style="fill:#1abc9c;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#3498db;fill-opacity:1;stroke:none"
+       id="rect3783-4"
+       width="200"
+       height="200"
+       x="-2677.1428"
+       y="2820.9336" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Semi-Light"
+       x="-3078.1621"
+       y="1355.9606"
+       id="text3828"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3830"
+         x="-3078.1621"
+         y="1355.9606">Diary</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3832"
+       y="1355.7653"
+       x="-2815.8562"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Semi-Light"
+       xml:space="preserve"><tspan
+         y="1355.7653"
+         x="-2815.8562"
+         id="tspan3834"
+         sodipodi:role="line">Inventory</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Semi-Light"
+       x="-3077.0684"
+       y="1486.333"
+       id="text3836"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3838"
+         x="-3077.0684"
+         y="1486.333">Back</tspan></text>
+    <rect
+       ry="0"
+       y="169.50505"
+       x="-660"
+       height="600"
+       width="800"
+       id="rect3840"
+       style="fill:#ecf0f1;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/turupawn/Projects/RenpyTests/Pirates2/game/images/A1/imagemap_hover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="399.50504"
+       x="-571.23901"
+       height="100"
+       width="100"
+       id="rect3842"
+       style="fill:#c0392b;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#c0392b;fill-opacity:1;stroke:none"
+       id="rect3844"
+       width="200"
+       height="300"
+       x="-171.239"
+       y="283.79074" />
+    <rect
+       style="fill:#9b59b6;fill-opacity:1;stroke:none"
+       id="rect3846"
+       width="100"
+       height="100"
+       x="-2581.95"
+       y="839.2251"
+       inkscape:export-filename="/home/turupawn/Projects/RenpyTests/Pirates2/game/images/items/1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="839.2251"
+       x="-2388.0007"
+       height="100"
+       width="100"
+       id="rect3848"
+       style="fill:#1abc9c;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/turupawn/Projects/RenpyTests/Pirates2/game/images/drops/1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Semi-Light"
+       x="-2545.2898"
+       y="903.63916"
+       id="text3850"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3852"
+         x="-2545.2898"
+         y="903.63916">i1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Semi-Light"
+       x="-2357.3367"
+       y="904.02979"
+       id="text3854"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3856"
+         x="-2357.3367"
+         y="904.02979">d1</tspan></text>
+  </g>
+</svg>
