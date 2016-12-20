@@ -1,5 +1,29 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Tue Dec 20 17:35:52 2016
+=======
+Tue Dec 20 17:32:59 2016
+Darwin-15.6.0-x86_64-i386-64bit
+Ren'Py 6.99.12.2003
+ 
+
+Bootstrap to the start of init.init took 0.11s
+Early init took 0.15s
+Loader init took 0.01s
+Loading error handling took 0.16s
+Loading script took 1.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.57s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Dump and make backups. took 0.14s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+DPI scale factor: 1.000000
+Creating interface object took 1.12s
+>>>>>>> c7fb5427bf42265a0bd70d4c5fc75320bca4de56
 =======
 Tue Dec 20 17:32:32 2016
 >>>>>>> e8712e3b25277aae4befaf18348af9393e5ffe9c
@@ -54,6 +78,13 @@ Save pyanalysis. took 0.10s
 Save bytecode. took 0.03s
 =======
 Load screen analysis took 0.03s
+<<<<<<< HEAD
+Analyze screens took 0.02s
+Save screen analysis took 0.05s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.12s
+Save bytecode. took 0.03s
+=======
 Analyze screens took 0.00s
 Save screen analysis took 0.00s
 Prepare screens took 0.03s
@@ -64,6 +95,38 @@ Running _start took 0.00s
 Performance test:
 Interface start took 0.01s
 
+<<<<<<< HEAD
+primary display bounds: (0, 0, 1280, 800)
+Windowed mode.
+Screen sizes: virtual=(800, 600) physical=(800, 600) drawable=(800, 600)
+Vendor: 'Intel Inc.'
+Renderer: 'Intel HD Graphics 4000 OpenGL Engine'
+Version: '2.1 INTEL-10.14.73'
+Display Info: <Info({'blit_sw_CC': False, 'refresh_rate': 60, 'bitsize': 32, 'wm': True, 'losses': (0, 0, 0, 0), 'hw': False, 'masks': (16711680, 65280, 255, 4278190080), 'current_h': 800, 'current_w': 1280, 'shifts': (16, 8, 0, 24), 'blit_sw_A': False, 'blit_hw': False, 'blit_sw': False, 'bytesize': 4, 'blit_hw_CC': False, 'blit_hw_A': False, 'video_mem': 268435456})>
+Extensions:
+    
+    GL_APPLE_aux_depth_stencil
+    GL_APPLE_client_storage
+    GL_APPLE_element_array
+    GL_APPLE_fence
+    GL_APPLE_float_pixels
+    GL_APPLE_flush_buffer_range
+    GL_APPLE_flush_render
+    GL_APPLE_object_purgeable
+    GL_APPLE_packed_pixels
+    GL_APPLE_pixel_buffer
+    GL_APPLE_rgb_422
+    GL_APPLE_row_bytes
+    GL_APPLE_specular_vector
+    GL_APPLE_texture_range
+    GL_APPLE_transform_hint
+    GL_APPLE_vertex_array_object
+    GL_APPLE_vertex_array_range
+    GL_APPLE_vertex_point_size
+    GL_APPLE_vertex_program_evaluators
+    GL_APPLE_ycbcr_422
+    GL_ARB_color_buffer_float
+=======
 primary display bounds: (0, 0, 1920, 1080)
 Windowed mode.
 <<<<<<< HEAD
@@ -105,6 +168,7 @@ Extensions:
     GL_ARB_conservative_depth
     GL_ARB_copy_buffer
     GL_ARB_debug_output
+>>>>>>> e8712e3b25277aae4befaf18348af9393e5ffe9c
     GL_ARB_depth_buffer_float
     GL_ARB_depth_clamp
     GL_ARB_depth_texture
@@ -113,14 +177,22 @@ Extensions:
     GL_ARB_draw_elements_base_vertex
     GL_ARB_draw_indirect
     GL_ARB_draw_instanced
+<<<<<<< HEAD
+=======
     GL_ARB_explicit_attrib_location
     GL_ARB_fragment_coord_conventions
+>>>>>>> e8712e3b25277aae4befaf18348af9393e5ffe9c
     GL_ARB_fragment_program
     GL_ARB_fragment_program_shadow
     GL_ARB_fragment_shader
     GL_ARB_framebuffer_no_attachments
     GL_ARB_framebuffer_object
     GL_ARB_framebuffer_sRGB
+<<<<<<< HEAD
+    GL_ARB_half_float_pixel
+    GL_ARB_half_float_vertex
+    GL_ARB_instanced_arrays
+=======
     GL_ARB_geometry_shader4
     GL_ARB_get_program_binary
     GL_ARB_gpu_shader5
@@ -133,15 +205,18 @@ Extensions:
     GL_ARB_map_buffer_alignment
     GL_ARB_map_buffer_range
     GL_ARB_multi_draw_indirect
+>>>>>>> e8712e3b25277aae4befaf18348af9393e5ffe9c
     GL_ARB_multisample
     GL_ARB_multitexture
     GL_ARB_occlusion_query
-    GL_ARB_occlusion_query2
     GL_ARB_pixel_buffer_object
     GL_ARB_point_parameters
     GL_ARB_point_sprite
     GL_ARB_program_interface_query
     GL_ARB_provoking_vertex
+<<<<<<< HEAD
+    GL_ARB_seamless_cube_map
+=======
     GL_ARB_robustness
     GL_ARB_sample_shading
     GL_ARB_sampler_objects
@@ -150,6 +225,7 @@ Extensions:
     GL_ARB_shader_atomic_counters
     GL_ARB_shader_bit_encoding
     GL_ARB_shader_image_load_store
+>>>>>>> e8712e3b25277aae4befaf18348af9393e5ffe9c
     GL_ARB_shader_objects
     GL_ARB_shader_precision
 <<<<<<< HEAD
@@ -177,12 +253,17 @@ Extensions:
     GL_ARB_texture_env_crossbar
     GL_ARB_texture_env_dot3
     GL_ARB_texture_float
+<<<<<<< HEAD
+    GL_ARB_texture_mirrored_repeat
+=======
     GL_ARB_texture_gather
     GL_ARB_texture_multisample
+>>>>>>> e8712e3b25277aae4befaf18348af9393e5ffe9c
     GL_ARB_texture_non_power_of_two
-    GL_ARB_texture_query_lod
     GL_ARB_texture_rectangle
     GL_ARB_texture_rg
+<<<<<<< HEAD
+=======
     GL_ARB_texture_rgb10_a2ui
     GL_ARB_texture_storage
     GL_ARB_texture_storage_multisample
@@ -191,9 +272,21 @@ Extensions:
     GL_ARB_transform_feedback2
     GL_ARB_transform_feedback3
     GL_ARB_transform_feedback_instanced
+>>>>>>> e8712e3b25277aae4befaf18348af9393e5ffe9c
     GL_ARB_transpose_matrix
     GL_ARB_uniform_buffer_object
     GL_ARB_vertex_array_bgra
+<<<<<<< HEAD
+    GL_ARB_vertex_blend
+    GL_ARB_vertex_buffer_object
+    GL_ARB_vertex_program
+    GL_ARB_vertex_shader
+    GL_ARB_window_pos
+    GL_ATI_separate_stencil
+    GL_ATI_texture_env_combine3
+    GL_ATI_texture_float
+    GL_ATI_texture_mirror_once
+=======
     GL_ARB_vertex_array_object
     GL_ARB_vertex_attrib_64bit
 <<<<<<< HEAD
@@ -207,6 +300,7 @@ Extensions:
     GL_ARB_viewport_array
     GL_ARB_window_pos
     GL_ATI_separate_stencil
+>>>>>>> e8712e3b25277aae4befaf18348af9393e5ffe9c
     GL_EXT_abgr
     GL_EXT_bgra
     GL_EXT_blend_color
@@ -215,20 +309,35 @@ Extensions:
     GL_EXT_blend_minmax
     GL_EXT_blend_subtract
     GL_EXT_clip_volume_hint
+<<<<<<< HEAD
+    GL_EXT_debug_label
+    GL_EXT_debug_marker
+=======
     GL_EXT_compiled_vertex_array
+>>>>>>> e8712e3b25277aae4befaf18348af9393e5ffe9c
     GL_EXT_draw_buffers2
     GL_EXT_draw_range_elements
     GL_EXT_fog_coord
     GL_EXT_framebuffer_blit
     GL_EXT_framebuffer_multisample
+<<<<<<< HEAD
+    GL_EXT_framebuffer_multisample_blit_scaled
     GL_EXT_framebuffer_object
+    GL_EXT_framebuffer_sRGB
+=======
+    GL_EXT_framebuffer_object
+>>>>>>> e8712e3b25277aae4befaf18348af9393e5ffe9c
     GL_EXT_geometry_shader4
     GL_EXT_gpu_program_parameters
     GL_EXT_gpu_shader4
     GL_EXT_multi_draw_arrays
     GL_EXT_packed_depth_stencil
     GL_EXT_packed_float
+<<<<<<< HEAD
+    GL_EXT_provoking_vertex
+=======
     GL_EXT_packed_pixels
+>>>>>>> e8712e3b25277aae4befaf18348af9393e5ffe9c
     GL_EXT_rescale_normal
     GL_EXT_secondary_color
     GL_EXT_separate_specular_color
@@ -236,6 +345,12 @@ Extensions:
     GL_EXT_shadow_funcs
     GL_EXT_stencil_two_side
     GL_EXT_stencil_wrap
+<<<<<<< HEAD
+    GL_EXT_texture_array
+    GL_EXT_texture_compression_dxt1
+    GL_EXT_texture_compression_s3tc
+    GL_EXT_texture_env_add
+=======
     GL_EXT_texture3D
     GL_EXT_texture_array
 <<<<<<< HEAD
@@ -246,6 +361,7 @@ Extensions:
     GL_EXT_texture_edge_clamp
     GL_EXT_texture_env_add
     GL_EXT_texture_env_combine
+>>>>>>> e8712e3b25277aae4befaf18348af9393e5ffe9c
     GL_EXT_texture_filter_anisotropic
     GL_EXT_texture_integer
     GL_EXT_texture_lod_bias
@@ -253,6 +369,22 @@ Extensions:
     GL_EXT_texture_sRGB
     GL_EXT_texture_sRGB_decode
     GL_EXT_texture_shared_exponent
+<<<<<<< HEAD
+    GL_EXT_timer_query
+    GL_EXT_transform_feedback
+    GL_EXT_vertex_array_bgra
+    GL_IBM_rasterpos_clip
+    GL_NV_blend_square
+    GL_NV_conditional_render
+    GL_NV_depth_clamp
+    GL_NV_fog_distance
+    GL_NV_light_max_exponent
+    GL_NV_texgen_reflection
+    GL_NV_texture_barrier
+    GL_SGIS_generate_mipmap
+    GL_SGIS_texture_edge_clamp
+    GL_SGIS_texture_lod
+=======
     GL_EXT_texture_snorm
     GL_EXT_texture_storage
     GL_EXT_texture_swizzle
@@ -280,6 +412,7 @@ Extensions:
     GL_SGIS_texture_lod
     GL_SUN_multi_draw_arrays
     GL_WIN_swap_hint
+>>>>>>> e8712e3b25277aae4befaf18348af9393e5ffe9c
 Number of texture units: 8
 Using shader environment.
 Using copy RTT.
@@ -293,6 +426,7 @@ Texture testing:
 - 1024px textures work.
 - 2048px textures work.
 <<<<<<< HEAD
+<<<<<<< HEAD
 Total time until interface ready: 11.3029999733s
 - Target is 5 frames in 0.333333333333 seconds.
 - Frame drawn at 0.000000 seconds.
@@ -301,6 +435,16 @@ Total time until interface ready: 11.3029999733s
 - Frame drawn at 0.294000 seconds.
 - Frame drawn at 0.311000 seconds.
 - 0.311000 seconds to render 5 frames.
+=======
+Total time until interface ready: 5.35591101646s
+- Target is 5 frames in 0.333333333333 seconds.
+- Frame drawn at 0.000000 seconds.
+- Frame drawn at 0.015908 seconds.
+- Frame drawn at 0.032060 seconds.
+- Frame drawn at 0.048168 seconds.
+- Frame drawn at 0.064902 seconds.
+- 0.064902 seconds to render 5 frames.
+>>>>>>> c7fb5427bf42265a0bd70d4c5fc75320bca4de56
 =======
 Total time until interface ready: 0.764000177383s
 - Target is 5 frames in 0.333333333333 seconds.
