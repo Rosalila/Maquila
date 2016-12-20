@@ -12,6 +12,7 @@ Exception: Required parameter drops has no value.
 Full traceback:
   File "game/scripts/b/1.rpy", line 3, in script
     call screen game_menu_screen("b1","a1",[])
+<<<<<<< HEAD
   File "C:\Users\Gotchi\Desktop\renpy\renpy-6.99.12-sdk\renpy\ast.py", line 1706, in execute
     self.call("execute")
   File "C:\Users\Gotchi\Desktop\renpy\renpy-6.99.12-sdk\renpy\ast.py", line 1724, in call
@@ -45,6 +46,41 @@ Full traceback:
   File "C:\Users\Gotchi\Desktop\renpy\renpy-6.99.12-sdk\renpy\ast.py", line 152, in apply_arguments
     return parameters.apply(args, kwargs, ignore_errors)
   File "C:\Users\Gotchi\Desktop\renpy\renpy-6.99.12-sdk\renpy\ast.py", line 120, in apply
+=======
+  File "C:\Users\ENVY\Downloads\renpy-6.99.12-sdk\renpy\ast.py", line 1706, in execute
+    self.call("execute")
+  File "C:\Users\ENVY\Downloads\renpy-6.99.12-sdk\renpy\ast.py", line 1724, in call
+    return renpy.statements.call(method, parsed, *args, **kwargs)
+  File "C:\Users\ENVY\Downloads\renpy-6.99.12-sdk\renpy\statements.py", line 145, in call
+    return method(parsed, *args, **kwargs)
+  File "renpy/common/000statements.rpy", line 471, in execute_call_screen
+    store._return = renpy.call_screen(name, *args, **kwargs)
+  File "C:\Users\ENVY\Downloads\renpy-6.99.12-sdk\renpy\exports.py", line 2521, in call_screen
+    rv = renpy.ui.interact(mouse="screen", type="screen", roll_forward=roll_forward)
+  File "C:\Users\ENVY\Downloads\renpy-6.99.12-sdk\renpy\ui.py", line 285, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
+  File "C:\Users\ENVY\Downloads\renpy-6.99.12-sdk\renpy\display\core.py", line 2492, in interact
+    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, **kwargs)
+  File "C:\Users\ENVY\Downloads\renpy-6.99.12-sdk\renpy\display\core.py", line 2759, in interact_core
+    root_widget.visit_all(lambda i : i.per_interact())
+  File "C:\Users\ENVY\Downloads\renpy-6.99.12-sdk\renpy\display\core.py", line 482, in visit_all
+    d.visit_all(callback)
+  File "C:\Users\ENVY\Downloads\renpy-6.99.12-sdk\renpy\display\core.py", line 482, in visit_all
+    d.visit_all(callback)
+  File "C:\Users\ENVY\Downloads\renpy-6.99.12-sdk\renpy\display\core.py", line 482, in visit_all
+    d.visit_all(callback)
+  File "C:\Users\ENVY\Downloads\renpy-6.99.12-sdk\renpy\display\screen.py", line 399, in visit_all
+    callback(self)
+  File "C:\Users\ENVY\Downloads\renpy-6.99.12-sdk\renpy\display\core.py", line 2759, in <lambda>
+    root_widget.visit_all(lambda i : i.per_interact())
+  File "C:\Users\ENVY\Downloads\renpy-6.99.12-sdk\renpy\display\screen.py", line 409, in per_interact
+    self.update()
+  File "C:\Users\ENVY\Downloads\renpy-6.99.12-sdk\renpy\display\screen.py", line 578, in update
+    self.screen.function(**self.scope)
+  File "C:\Users\ENVY\Downloads\renpy-6.99.12-sdk\renpy\ast.py", line 152, in apply_arguments
+    return parameters.apply(args, kwargs, ignore_errors)
+  File "C:\Users\ENVY\Downloads\renpy-6.99.12-sdk\renpy\ast.py", line 120, in apply
+>>>>>>> 6ef9ca3fa0e60b7e041a210eb7b704932403b282
     raise Exception("Required parameter %s has no value." % name)
 Exception: Required parameter drops has no value.
 
